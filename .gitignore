@@ -1,0 +1,4 @@
+.gradio
+_pycache_/
+websiteNavigator/
+.env
